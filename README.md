@@ -1,16 +1,38 @@
-## Hi there 👋
+# Cgenerate
 
-<!--
-**cgenerate/cgenerate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free Online Certificate Generator & Bulk Certificate Creator.
 
-Here are some ideas to get you started:
+## Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://cgenerate.com
+
+## Features
+
+- Quick Certificate Generator
+- Bulk Certificate Generator
+- Excel (XLSX) Import
+- CSV Import
+- PDF Export
+- JPG Export
+- Custom Certificate Templates
+- ZIP Download Support
+
+## Tools
+
+### Quick Certificate Generator
+https://cgenerate.com/quick-certificate-generator/
+
+### Bulk Certificate Generator
+https://cgenerate.com/bulk-certificate-generator/
+
+## About
+
+Cgenerate helps schools, universities, organizations, event organizers, and businesses generate professional certificates online in seconds.
+
+No software installation required.
+
+## Documentation
+
+Visit the official website:
+
+https://cgenerate.com
