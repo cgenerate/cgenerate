@@ -5,43 +5,42 @@
 <h1 align="center">Cgenerate</h1>
 
 <p align="center">
-  Free Online Certificate Generator & Bulk Certificate Creator
+  <strong>Free Online Certificate Generator & Bulk Certificate Creator</strong>
 </p>
 
 <p align="center">
-  Create professional certificates online in seconds from Excel, CSV, PNG, JPG, and PDF templates.
+  Create individual or bulk certificates from CSV, Excel, or Google Sheets using sample or custom PNG, JPG, JPEG, and PDF templates—all directly in your browser.
 </p>
 
 <p align="center">
-  🌐 <a href="https://cgenerate.com">Official Website</a>
+  <a href="https://cgenerate.com">Official Website</a>
+  ·
+  <a href="https://cgenerate.com/quick-certificate-generator/">Quick Generate</a>
+  ·
+  <a href="https://cgenerate.com/bulk-certificate-generator/">Bulk Generate</a>
 </p>
 
 ---
 
 ## Preview
 
-![Cgenerate Homepage](homepage-preview.png)
+![Cgenerate Homepage Preview](homepage-preview.png)
 
 ---
 
 ## About Cgenerate
 
-Cgenerate is a modern online certificate generation platform that helps educational institutions, organizations, businesses, and event managers create professional certificates quickly and efficiently.
+Cgenerate is a free, browser-based certificate-generation platform designed for fast, accurate, and professional certificate creation.
 
-Whether you need a single certificate or thousands of certificates, Cgenerate provides a fast, reliable, and professional solution directly from your browser.
+Create one certificate through Quick Generate or process up to 1,000 recipients through Bulk Generate. No account or software installation is required.
 
-### Ideal For
+### Designed For
 
-- Schools
-- Colleges
-- Universities
-- Training Institutes
-- Workshops
-- Webinars
-- Conferences
-- Organizations
-- Event Managers
-- Businesses
+* Schools, colleges, and universities
+* Training institutes and course providers
+* Workshops, webinars, and conferences
+* Event organizers and professional teams
+* Businesses and other organizations
 
 ---
 
@@ -49,107 +48,124 @@ Whether you need a single certificate or thousands of certificates, Cgenerate pr
 
 ### Quick Certificate Generator
 
-Generate individual certificates with complete control over text placement, styling, and formatting.
+Create one professional certificate through a focused three-step workflow with a continuously visible live preview.
 
 ### Bulk Certificate Generator
 
-Generate hundreds or thousands of certificates using Excel (XLSX) or CSV files.
+Import recipient data from CSV, Excel (`.xlsx`), or Google Sheets and generate certificates for up to 1,000 recipients per file.
 
-### Custom Certificate Templates
+### Recipient Data Validation
 
-Upload and use your own certificate templates while preserving original quality and design.
+Cgenerate checks the required `ID` and `Full Name` columns and identifies missing IDs, empty names, duplicate IDs, long values, and row-limit issues before generation.
 
-### Excel & CSV Import
+### Sample and Custom Templates
 
-Import recipient data directly from spreadsheet files.
+Start with the built-in sample template or upload your own PNG, JPG, JPEG, or first-page PDF certificate design.
+
+Templates can be processed up to 8,000 pixels per side and 16 megapixels.
+
+### Precise Name Placement
+
+Position and style recipient names using controls for font, size, spacing, color, alignment, and placement while viewing the certificate preview.
 
 ### Multiple Export Formats
 
-- PDF Export
-- JPG Export
+Export individual certificates as:
 
-### ZIP Package Download
+* PDF
+* JPG
+* PNG
 
-Download multiple certificates as a single ZIP archive.
+Bulk certificates are created with safe recipient-based filenames and downloaded together in a ZIP package.
 
-### Browser-Based Platform
+### Privacy-First Browser Processing
 
-No installation required. Access Cgenerate from any device and browser.
+Certificate templates, recipient data, previews, and generated files are processed inside the browser session. Uploaded certificate files are not intentionally stored by Cgenerate on a server.
+
+---
+
+## How Cgenerate Works
+
+1. **Choose a template**
+   Use the sample certificate template or upload a PNG, JPG, JPEG, or first-page PDF design.
+
+2. **Place and style the recipient name**
+   Select a font, adjust the size and color, configure spacing and alignment, and position the name using the live preview.
+
+3. **Add recipient information**
+   Enter one recipient manually or import a CSV, Excel, or Google Sheets recipient list containing `ID` and `Full Name` columns.
+
+4. **Preview and export**
+   Review the generated certificate and export it as PDF, JPG, or PNG. Bulk certificates are downloaded in a ZIP package.
 
 ---
 
 ## Available Tools
 
-### Quick Certificate Generator
-
-https://cgenerate.com/quick-certificate-generator/
-
-Create professional certificates instantly by uploading a template and entering recipient details.
-
-### Bulk Certificate Generator
-
-https://cgenerate.com/bulk-certificate-generator/
-
-Generate certificates in bulk using Excel or CSV recipient lists.
+| Tool                                                                              | Purpose                                                                             |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Quick Certificate Generator](https://cgenerate.com/quick-certificate-generator/) | Create and download one professional certificate                                    |
+| [Bulk Certificate Generator](https://cgenerate.com/bulk-certificate-generator/)   | Generate certificates for up to 1,000 recipients using CSV, Excel, or Google Sheets |
 
 ---
 
 ## Popular Use Cases
 
-- Student Certificates
-- Workshop Certificates
-- Webinar Certificates
-- Training Certificates
-- Course Completion Certificates
-- Participation Certificates
-- Appreciation Certificates
-- Achievement Certificates
-- Conference Certificates
-- Corporate Training Certificates
+* Student certificates
+* Training certificates
+* Workshop certificates
+* Webinar and seminar certificates
+* Course-completion certificates
+* Participation certificates
+* Appreciation certificates
+* Achievement certificates
+* Conference certificates
+* Employee awards
+* Corporate training certificates
+* Business recognition certificates
 
 ---
 
-## Why Choose Cgenerate?
+## Documentation and Guides
 
-- Fast certificate generation
-- Professional-quality output
-- User-friendly interface
-- Bulk certificate support
-- Excel & CSV integration
-- Secure cloud-based platform
-- No software installation required
-- Accessible from any device
+| Guide                                                                                         | Description                                                                       |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [How to Create Certificates Online](https://cgenerate.com/how-to-create-certificates/)        | Follow the complete certificate-generation workflow                               |
+| [Bulk Certificate Generation Guide](https://cgenerate.com/bulk-certificate-generation-guide/) | Prepare recipient data, resolve validation issues, and generate bulk certificates |
+| [Certificate Template Preparation Guide](https://cgenerate.com/certificate-template-guide/)   | Prepare reliable PNG, JPG, JPEG, or PDF certificate templates                     |
 
 ---
 
-## Documentation & Guides
+## Privacy and Responsible Use
 
-### Certificate Template Guide
+Cgenerate follows a privacy-first, browser-based workflow. Users remain responsible for reviewing certificate information and generated files before official distribution.
 
-https://cgenerate.com/certificate-template-guide/
+Users must also have permission to use all uploaded templates, logos, signatures, names, IDs, and other certificate content.
 
-### Bulk Certificate Generation Guide
+For complete details, review the:
 
-https://cgenerate.com/bulk-certificate-generation-guide/
-
-### How to Create Certificates Online
-
-https://cgenerate.com/how-to-create-certificates/
+* [Privacy Policy](https://cgenerate.com/privacy/)
+* [Terms of Use](https://cgenerate.com/terms/)
 
 ---
 
-## Mission
+## Repository Scope
 
-Our mission is to simplify certificate creation by providing a fast, reliable, and professional platform for educational institutions, organizations, businesses, and event managers worldwide.
+This repository contains official product information, public documentation, visual assets, and update information for Cgenerate.
+
+The application source code and internal infrastructure are maintained privately. This repository should not be interpreted as an open-source distribution of the Cgenerate application.
 
 ---
 
 ## Connect With Cgenerate
 
-🌐 Website: https://cgenerate.com
-
-🐙 GitHub: https://github.com/cgenerate
+* Website: [cgenerate.com](https://cgenerate.com)
+* GitHub: [github.com/cgenerate](https://github.com/cgenerate)
+* About: [About Cgenerate](https://cgenerate.com/about/)
+* Contact: [Contact Cgenerate](https://cgenerate.com/contact/)
 
 ---
 
-Powered by Cgenerate
+<p align="center">
+  Powered by Cgenerate
+</p>
